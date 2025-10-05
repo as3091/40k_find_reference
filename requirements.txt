@@ -1,0 +1,7 @@
+google-genai
+chromadb
+ebooklib
+beautifulsoup4
+google-generativeai
+google-api-core
+langchain-community

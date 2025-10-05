@@ -4,6 +4,7 @@ My_Black_Library/*
 # ...but DO NOT ignore the .gitkeep file within it.
 !My_Black_Library/.gitkeep
 
+temp.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
